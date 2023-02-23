@@ -1,0 +1,10 @@
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T10:03:17][AlgorithmStarted]Algorithm 7|objects:22|frames:12529|scans:21|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T10:04:53][AlgorithmStarted]Algorithm 7|objects:22|frames:12529|scans:21|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T11:24:35][AlgorithmStarted]Algorithm 7|objects:22|frames:12529|scans:21|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T11:28:05][AlgorithmCompletedTime]Algorithm 7. Duration: 209.05 seconds. Result Ok
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T11:29:06][AlgorithmStarted]Algorithm 10|objects:22|frames:12529|scans:21|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T15:09:54][AlgorithmCompletedTime]Algorithm 10. Duration: 13248.52 seconds. Result Ok
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T15:15:45][AlgorithmStarted]Algorithm 7|objects:33|frames:12908|scans:32|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T15:18:51][AlgorithmCompletedTime]Algorithm 7. Duration: 185.61 seconds. Result Ok
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T15:19:06][AlgorithmStarted]Algorithm 10|objects:33|frames:12908|scans:32|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B07FDFF4-9839-4D9A-B6B0-29D0FE4DD883][16.0.7.74 Pro][2022-02-02T20:52:10][AlgorithmCompletedTime]Algorithm 10. Duration: 19983.70 seconds. Result Ok

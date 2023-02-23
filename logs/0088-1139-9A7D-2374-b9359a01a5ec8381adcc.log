@@ -1,0 +1,10 @@
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:19:42][AlgorithmStarted]Algorithm 7|objects:2|frames:239|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:21:06][AlgorithmCompletedTime]Algorithm 7. Duration: 84.56 seconds. Result Ok
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:21:31][AlgorithmStarted]Algorithm 10|objects:2|frames:239|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:22:56][AlgorithmCompletedTime]Algorithm 10. Duration: 85.34 seconds. Result Ok
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:23:28][AlgorithmStarted]Algorithm 10|objects:2|frames:239|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:24:41][AlgorithmCompletedTime]Algorithm 10. Duration: 73.07 seconds. Result Ok
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:25:31][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:25:31][AlgorithmCompletedTime]Algorithm 15. Duration: 0.61 seconds. Result Ok
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:25:39][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][EAC090AC-B46F-4EC8-BB37-7128FAD1D619][17.0.5.61 Pro][2022-08-12T20:25:41][AlgorithmCompletedTime]Algorithm 15. Duration: 2.50 seconds. Result Ok

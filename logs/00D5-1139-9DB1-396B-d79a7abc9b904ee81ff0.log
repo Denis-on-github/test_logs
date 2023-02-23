@@ -1,0 +1,11 @@
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T16:13:45][AlgorithmStarted]Algorithm 9|objects:2|frames:422|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T17:12:03][AlgorithmCompletedTime]Algorithm 9. Duration: 3498.04 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T17:15:48][AlgorithmStarted]Algorithm 8|objects:2|frames:422|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T17:18:54][AlgorithmCompletedTime]Algorithm 8. Duration: 186.04 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T17:19:22][AlgorithmStarted]Algorithm 9|objects:2|frames:422|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T18:18:11][AlgorithmCompletedTime]Algorithm 9. Duration: 3528.81 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T18:27:24][AlgorithmStarted]Algorithm 7|objects:1|frames:27|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T18:27:25][AlgorithmCompletedTime]Algorithm 7. Duration: 1.04 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T18:27:52][AlgorithmStarted]Algorithm 7|objects:1|frames:422|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T18:28:53][AlgorithmCompletedTime]Algorithm 7. Duration: 60.66 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.0.3.77 Pro][2022-06-13T18:31:15][AlgorithmStarted]Algorithm 9|objects:3|frames:446|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools

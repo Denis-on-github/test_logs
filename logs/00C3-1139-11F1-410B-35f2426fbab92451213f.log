@@ -1,0 +1,12 @@
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:35:23][AlgorithmStarted]Algorithm 4|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:35:23][AlgorithmCompletedTime]Algorithm 4. Duration: 0.01 seconds. Result Ok
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:38:53][AlgorithmStarted]Algorithm 10|objects:2|frames:2|scans:0|fusions:2|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:39:03][AlgorithmCompletedTime]Algorithm 10. Duration: 9.59 seconds. Result Ok
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:12][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:13][AlgorithmCompletedTime]Algorithm 15. Duration: 0.22 seconds. Result Ok
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:16][AlgorithmStarted]Algorithm 2|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:18][AlgorithmCompletedTime]Algorithm 2. Duration: 1.87 seconds. Result Ok
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:20][AlgorithmStarted]Algorithm 13|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:39][AlgorithmCompletedTime]Algorithm 13. Duration: 18.97 seconds. Result Ok
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:50][AlgorithmStarted]Algorithm 17|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2021-12-03T11:41:50][AlgorithmCompletedTime]Algorithm 17. Duration: 0.15 seconds. Result Ok

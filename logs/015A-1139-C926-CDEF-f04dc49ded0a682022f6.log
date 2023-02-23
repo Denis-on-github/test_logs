@@ -1,0 +1,22 @@
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:01:53][AlgorithmStarted]Algorithm 6, Objects count = 3, Frame count = 4027
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:02:52][AlgorithmCompletedTime]Algorithm 6. Duration: 58.9 seconds. Result OK
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:05:55][AlgorithmStarted]Algorithm 7, Objects count = 3, Frame count = 4027
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:08:43][AlgorithmCompletedTime]Algorithm 7. Duration: 168.1 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:10:38][AlgorithmStarted]Algorithm 7, Objects count = 3, Frame count = 4017
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:12:56][AlgorithmCompletedTime]Algorithm 7. Duration: 137.4 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:13:10][AlgorithmStarted]Algorithm 8, Objects count = 3, Frame count = 4013
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:16:22][AlgorithmCompletedTime]Algorithm 8. Duration: 192.2 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:16:31][AlgorithmStarted]Algorithm 3, Objects count = 3, Frame count = 4013
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T03:23:02][AlgorithmCompletedTime]Algorithm 3. Duration: 391.0 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:01:52][AlgorithmStarted]Algorithm 14, Objects count = 1, Frame count = 1
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:02:11][AlgorithmCompletedTime]Algorithm 14. Duration: 19.0 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:22:30][AlgorithmStarted]Algorithm 6, Objects count = 1, Frame count = 1022
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:22:57][AlgorithmCompletedTime]Algorithm 6. Duration: 26.2 seconds. Result OK
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:23:09][AlgorithmStarted]Algorithm 7, Objects count = 1, Frame count = 1022
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:24:43][AlgorithmCompletedTime]Algorithm 7. Duration: 93.4 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:25:28][AlgorithmStarted]Algorithm 8, Objects count = 1, Frame count = 1022
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:26:28][AlgorithmCompletedTime]Algorithm 8. Duration: 59.0 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:26:39][AlgorithmStarted]Algorithm 3, Objects count = 1, Frame count = 1022
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:26:59][AlgorithmCompletedTime]Algorithm 3. Duration: 19.4 seconds. Result Ok
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:27:48][AlgorithmStarted]Algorithm 14, Objects count = 1, Frame count = 1
+[5][015A-1139-C926-CDEF][12.1.6.16 Pro][2018-09-18T04:27:51][AlgorithmCompletedTime]Algorithm 14. Duration: 2.5 seconds. Result Ok

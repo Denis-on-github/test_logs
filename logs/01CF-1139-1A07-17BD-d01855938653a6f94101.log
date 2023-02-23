@@ -1,0 +1,12 @@
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:13:23][AlgorithmStarted]Algorithm 7|objects:2|frames:462|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:13:37][AlgorithmCompletedTime]Algorithm 7. Duration: 12.75 seconds. Result Ok
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:14:18][AlgorithmStarted]Algorithm 6|objects:2|frames:462|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:14:33][AlgorithmCompletedTime]Algorithm 6. Duration: 14.75 seconds. Result Ok
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:15:11][AlgorithmStarted]Algorithm 7|objects:2|frames:462|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:15:24][AlgorithmCompletedTime]Algorithm 7. Duration: 12.16 seconds. Result Ok
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:15:34][AlgorithmStarted]Algorithm 8|objects:2|frames:462|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:16:49][AlgorithmCompletedTime]Algorithm 8. Duration: 74.76 seconds. Result Ok
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:25:36][AlgorithmStarted]Algorithm 10|objects:2|frames:462|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:26:24][AlgorithmCompletedTime]Algorithm 10. Duration: 48.35 seconds. Result Ok
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:35:10][AlgorithmStarted]Algorithm 9|objects:2|frames:462|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C6C57DCD-A014-425E-BE0E-03E4DB095A36][15.1.2.60 Pro][2022-05-06T13:40:56][AlgorithmCompletedTime]Algorithm 9. Duration: 346.08 seconds. Result Ok

@@ -1,0 +1,11 @@
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T12:43:11][AlgorithmStarted]Algorithm 7|objects:1|frames:529|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T12:43:43][AlgorithmCompletedTime]Algorithm 7. Duration: 32.17 seconds. Result Ok
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T12:44:45][AlgorithmStarted]Algorithm 8|objects:1|frames:529|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T13:07:43][AlgorithmCompletedTime]Algorithm 8. Duration: 1377.48 seconds. Result Ok
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T13:08:14][AlgorithmStarted]Algorithm 10|objects:1|frames:529|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T13:14:18][AlgorithmStarted]Algorithm 10|objects:1|frames:529|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T13:24:38][AlgorithmCompletedTime]Algorithm 10. Duration: 619.60 seconds. Result Ok
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T14:19:31][AlgorithmStarted]Algorithm 2|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T14:19:37][AlgorithmCompletedTime]Algorithm 2. Duration: 5.51 seconds. Result Ok
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T14:43:52][AlgorithmStarted]Algorithm 17|objects:6|frames:1133|scans:1|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:1|photo_sets:1|total_photos:74|launch_location:tools
+[10][D200B3EC-438E-4F8C-BE1A-F5E66D142934][16.0.7.74 Pro][2022-01-05T15:11:57][AlgorithmStarted]Algorithm 17|objects:6|frames:1124|scans:1|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:1|photo_sets:1|total_photos:65|launch_location:tools

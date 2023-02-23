@@ -1,0 +1,12 @@
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:39:53][AlgorithmStarted]Algorithm 7|objects:4|frames:1539|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:40:07][AlgorithmCompletedTime]Algorithm 7. Duration: 14.58 seconds. Result OK
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:40:07][AlgorithmStarted]Algorithm 10|objects:2|frames:1539|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:42:17][AlgorithmCompletedTime]Algorithm 10. Duration: 129.97 seconds. Result OK
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:42:17][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:42:18][AlgorithmCompletedTime]Algorithm 15. Duration: 0.67 seconds. Result OK
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:42:18][AlgorithmStarted]Algorithm 14|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:42:40][AlgorithmCompletedTime]Algorithm 14. Duration: 22.21 seconds. Result OK
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:42:40][AlgorithmStarted]Algorithm 17|objects:5|frames:1540|scans:2|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:43:14][AlgorithmCompletedTime]Algorithm 17. Duration: 34.22 seconds. Result OK
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:43:14][AlgorithmStarted]Algorithm 18|objects:5|frames:1540|scans:2|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][071B607C-280C-486C-8184-798005245F8E][17.1.0.141 Pro][2022-12-04T16:43:26][AlgorithmCompletedTime]Algorithm 18. Duration: 11.90 seconds. Result OK

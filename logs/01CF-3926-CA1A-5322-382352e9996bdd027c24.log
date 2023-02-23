@@ -1,0 +1,12 @@
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:55:08][AlgorithmStarted]Algorithm 7|objects:1|frames:922|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:55:16][AlgorithmCompletedTime]Algorithm 7. Duration: 8.49 seconds. Result OK
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:55:16][AlgorithmStarted]Algorithm 10|objects:1|frames:922|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:58:34][AlgorithmCompletedTime]Algorithm 10. Duration: 197.00 seconds. Result OK
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:58:34][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:58:42][AlgorithmCompletedTime]Algorithm 15. Duration: 7.81 seconds. Result OK
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T13:58:42][AlgorithmStarted]Algorithm 14|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T14:01:14][AlgorithmCompletedTime]Algorithm 14. Duration: 152.76 seconds. Result OK
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T14:01:14][AlgorithmStarted]Algorithm 17|objects:2|frames:923|scans:1|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T14:04:38][AlgorithmCompletedTime]Algorithm 17. Duration: 203.25 seconds. Result OK
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T14:04:38][AlgorithmStarted]Algorithm 18|objects:2|frames:923|scans:1|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][51C46351-39FA-44F9-8936-57DFD90E341D][16.0.8.2 Trial][2022-05-28T14:04:41][AlgorithmCompletedTime]Algorithm 18. Duration: 3.06 seconds. Result OK

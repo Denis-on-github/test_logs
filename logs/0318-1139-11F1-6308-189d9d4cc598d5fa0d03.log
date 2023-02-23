@@ -1,0 +1,10 @@
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:46:05][AlgorithmStarted]Algorithm 7|objects:7|frames:7|scans:0|fusions:7|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:46:20][AlgorithmStarted]Algorithm 7|objects:6|frames:6|scans:0|fusions:6|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:46:34][AlgorithmStarted]Algorithm 10|objects:6|frames:6|scans:0|fusions:6|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:47:31][AlgorithmCompletedTime]Algorithm 10. Duration: 56.98 seconds. Result Ok
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:51:34][AlgorithmStarted]Algorithm 10|objects:6|frames:6|scans:0|fusions:6|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:52:25][AlgorithmCompletedTime]Algorithm 10. Duration: 50.93 seconds. Result Ok
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:52:35][AlgorithmStarted]Algorithm 2|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:52:46][AlgorithmCompletedTime]Algorithm 2. Duration: 10.63 seconds. Result Ok
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:56:42][AlgorithmStarted]Algorithm 9|objects:6|frames:6|scans:0|fusions:6|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D0AA9CDB-288B-4173-A570-5B9E450C1180][17.1.0.141 Pro][2022-11-30T13:59:29][AlgorithmCompletedTime]Algorithm 9. Duration: 166.75 seconds. Result Ok

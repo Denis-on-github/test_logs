@@ -1,0 +1,10 @@
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T14:07:48][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T14:18:26][AlgorithmCompletedTime]Algorithm 15. Duration: 638.18 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T14:20:51][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T14:26:12][AlgorithmCompletedTime]Algorithm 15. Duration: 321.54 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T14:50:05][AlgorithmStarted]Algorithm 13|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T15:04:38][AlgorithmCompletedTime]Algorithm 13. Duration: 872.59 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T15:05:33][AlgorithmStarted]Algorithm 13|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T15:18:04][AlgorithmCompletedTime]Algorithm 13. Duration: 751.33 seconds. Result Ok
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T15:38:01][AlgorithmStarted]Algorithm 7|objects:61|frames:65204|scans:59|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][A76FB18F-0213-47FB-8405-19B730A88D83][17.1.0.141 Pro][2022-10-14T15:59:59][AlgorithmCompletedTime]Algorithm 7. Duration: 1307.10 seconds. Result Ok

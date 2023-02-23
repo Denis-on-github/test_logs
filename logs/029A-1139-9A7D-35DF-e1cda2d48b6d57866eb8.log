@@ -1,0 +1,11 @@
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2021-12-30T21:30:01][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2021-12-30T21:30:09][AlgorithmCompletedTime]Algorithm 15. Duration: 8.39 seconds. Result Ok
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2021-12-30T21:30:45][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2021-12-30T21:30:54][AlgorithmCompletedTime]Algorithm 15. Duration: 9.17 seconds. Result Ok
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2021-12-30T21:34:34][AlgorithmStarted]Algorithm 13|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2022-01-01T22:14:15][AlgorithmCompletedTime]Algorithm 13. Duration: 175181.14 seconds. Result Ok
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2022-01-03T08:17:30][AlgorithmStarted]Algorithm 8|objects:9|frames:1570|scans:9|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2022-01-03T08:22:52][AlgorithmCompletedTime]Algorithm 8. Duration: 321.37 seconds. Result Ok
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2022-01-03T08:23:17][AlgorithmStarted]Algorithm 3|objects:9|frames:1570|scans:9|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2022-01-03T08:29:02][AlgorithmCompletedTime]Algorithm 3. Duration: 344.43 seconds. Result Ok
+[10][B41DC020-2E7B-47BF-A691-F19AF92BA2DB][16.0.7.74 Pro][2022-01-03T08:32:16][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools

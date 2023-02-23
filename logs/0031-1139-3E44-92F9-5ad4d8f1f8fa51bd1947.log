@@ -1,0 +1,18 @@
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:11:11][AlgorithmStarted]Algorithm 6, Objects count = 1, Frame count = 421
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:11:14][AlgorithmCompletedTime]Algorithm 6. Duration: 3.1 seconds. Result OK
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:11:14][AlgorithmStarted]Algorithm 17, Objects count = 1, Frame count = 421
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:11:28][AlgorithmCompletedTime]Algorithm 17. Duration: 14.1 seconds. Result OK
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:24:02][AlgorithmStarted]Algorithm 6, Objects count = 7, Frame count = 2581
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:24:10][AlgorithmCompletedTime]Algorithm 6. Duration: 8.1 seconds. Result OK
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:24:10][AlgorithmStarted]Algorithm 17, Objects count = 6, Frame count = 2273
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:25:19][AlgorithmCompletedTime]Algorithm 17. Duration: 67.4 seconds. Result OK
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:48:17][AlgorithmStarted]Algorithm 7, Objects count = 7, Frame count = 1491
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:49:23][AlgorithmCompletedTime]Algorithm 7. Duration: 54.0 seconds. Result Failed
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:49:29][AlgorithmStarted]Algorithm 11, Objects count = 7, Frame count = 1491
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:49:48][AlgorithmCompletedTime]Algorithm 11. Duration: 18.5 seconds. Result Ok
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:50:24][AlgorithmStarted]Algorithm 7, Objects count = 4, Frame count = 1460
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:51:16][AlgorithmCompletedTime]Algorithm 7. Duration: 51.7 seconds. Result Ok
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:52:52][AlgorithmStarted]Algorithm 8, Objects count = 4, Frame count = 1460
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:56:06][AlgorithmCompletedTime]Algorithm 8. Duration: 193.6 seconds. Result Ok
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:56:58][AlgorithmStarted]Algorithm 10, Objects count = 4, Frame count = 1460
+[5][0031-1139-3E44-92F9][12.1.6.16 Pro][2022-06-22T11:59:35][AlgorithmCompletedTime]Algorithm 10. Duration: 156.7 seconds. Result Ok

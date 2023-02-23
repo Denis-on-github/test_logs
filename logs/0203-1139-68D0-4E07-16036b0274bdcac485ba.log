@@ -1,0 +1,10 @@
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:15:05][AlgorithmStarted]Algorithm 17|objects:15|frames:10764|scans:11|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:1|total_photos:60|launch_location:tools
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:17:49][AlgorithmCompletedTime]Algorithm 17. Duration: 163.90 seconds. Result Ok
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:20:08][AlgorithmStarted]Algorithm 7|objects:9|frames:9505|scans:9|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:21:50][AlgorithmCompletedTime]Algorithm 7. Duration: 101.83 seconds. Result Ok
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:22:09][AlgorithmStarted]Algorithm 10|objects:9|frames:9270|scans:9|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:29:04][AlgorithmCompletedTime]Algorithm 10. Duration: 414.72 seconds. Result Ok
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:29:36][AlgorithmStarted]Algorithm 17|objects:15|frames:10764|scans:11|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:1|total_photos:60|launch_location:tools
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:33:22][AlgorithmCompletedTime]Algorithm 17. Duration: 225.48 seconds. Result Ok
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:34:42][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][7393C5B6-9702-41DF-9782-4E04F0F8F0C8][17.0.5.61 Pro][2022-07-29T10:34:48][AlgorithmCompletedTime]Algorithm 15. Duration: 5.59 seconds. Result Ok

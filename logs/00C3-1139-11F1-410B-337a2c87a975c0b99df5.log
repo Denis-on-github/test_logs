@@ -1,0 +1,4 @@
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2022-01-14T11:08:00][AlgorithmStarted]Algorithm 10|objects:2|frames:2|scans:0|fusions:2|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2022-01-14T11:08:06][AlgorithmCompletedTime]Algorithm 10. Duration: 6.49 seconds. Result Ok
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2022-01-14T11:08:48][AlgorithmStarted]Algorithm 2|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][C9CC2FC1-F42D-42DD-9664-863E438A361A][15.1.2.60 Pro][2022-01-14T11:08:49][AlgorithmCompletedTime]Algorithm 2. Duration: 1.09 seconds. Result Ok

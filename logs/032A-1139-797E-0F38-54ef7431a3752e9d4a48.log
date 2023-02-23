@@ -1,0 +1,12 @@
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:08:15][AlgorithmStarted]Algorithm 7|objects:2|frames:36|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:08:16][AlgorithmCompletedTime]Algorithm 7. Duration: 0.82 seconds. Result Ok
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:08:16][AlgorithmStarted]Algorithm 10|objects:2|frames:36|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:08:42][AlgorithmCompletedTime]Algorithm 10. Duration: 24.98 seconds. Result Ok
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:08:42][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:08:42][AlgorithmCompletedTime]Algorithm 15. Duration: 0.16 seconds. Result Ok
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:16:49][AlgorithmStarted]Algorithm 7|objects:2|frames:44|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:16:49][AlgorithmCompletedTime]Algorithm 7. Duration: 0.53 seconds. Result Ok
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:16:49][AlgorithmStarted]Algorithm 10|objects:2|frames:44|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:17:03][AlgorithmCompletedTime]Algorithm 10. Duration: 13.06 seconds. Result Ok
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:17:03][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][A3B3C8E7-15D4-47E4-A97E-FF18870B51B6][15.1.2.60 Pro][2022-11-03T15:17:03][AlgorithmCompletedTime]Algorithm 15. Duration: 0.12 seconds. Result Ok

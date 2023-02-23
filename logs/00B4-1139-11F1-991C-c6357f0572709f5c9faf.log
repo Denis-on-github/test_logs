@@ -1,0 +1,14 @@
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T12:05:19][AlgorithmStarted]Algorithm 7|objects:1|frames:379|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T12:05:51][AlgorithmCompletedTime]Algorithm 7. Duration: 30.77 seconds. Result Ok
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:04:04][AlgorithmStarted]Algorithm 7|objects:7|frames:1127|scans:7|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:05:31][AlgorithmCompletedTime]Algorithm 7. Duration: 83.57 seconds. Result Ok
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:05:39][AlgorithmStarted]Algorithm 8|objects:7|frames:1127|scans:7|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:08:04][AlgorithmCompletedTime]Algorithm 8. Duration: 144.24 seconds. Result Ok
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:09:23][AlgorithmStarted]Algorithm 10|objects:7|frames:1127|scans:7|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:10:23][AlgorithmCompletedTime]Algorithm 10. Duration: 60.89 seconds. Result Ok
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:10:41][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:10:41][AlgorithmCompletedTime]Algorithm 15. Duration: 0.16 seconds. Result Ok
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:11:27][AlgorithmStarted]Algorithm 17|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:11:28][AlgorithmCompletedTime]Algorithm 17. Duration: 0.16 seconds. Result Ok
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:12:21][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][B65A10EF-1599-4412-B151-41488054C61B][15.1.2.60 Pro][2022-08-29T14:12:21][AlgorithmCompletedTime]Algorithm 15. Duration: 0.14 seconds. Result Ok

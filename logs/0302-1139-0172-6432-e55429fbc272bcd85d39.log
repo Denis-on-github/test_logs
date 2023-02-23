@@ -1,0 +1,11 @@
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:18][AlgorithmStarted]Algorithm 7|objects:2|frames:257|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:21][AlgorithmCompletedTime]Algorithm 7. Duration: 2.79 seconds. Result OK
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:21][AlgorithmStarted]Algorithm 3|objects:2|frames:257|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:33][AlgorithmCompletedTime]Algorithm 3. Duration: 11.20 seconds. Result OK
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:33][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:33][AlgorithmCompletedTime]Algorithm 15. Duration: 0.72 seconds. Result OK
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:33][AlgorithmStarted]Algorithm 14|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:39][AlgorithmCompletedTime]Algorithm 14. Duration: 6.04 seconds. Result OK
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:39][AlgorithmStarted]Algorithm 17|objects:3|frames:258|scans:2|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:56][AlgorithmCompletedTime]Algorithm 17. Duration: 16.76 seconds. Result OK
+[10][703821F8-D70E-47BD-BCA6-8876F9DC31DF][17.0.4.0 Pro][2022-11-27T16:47:56][AlgorithmStarted]Algorithm 18|objects:3|frames:258|scans:2|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode

@@ -1,0 +1,10 @@
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:46:32][AlgorithmStarted]Algorithm 7|objects:2|frames:2701|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:47:07][AlgorithmCompletedTime]Algorithm 7. Duration: 34.75 seconds. Result Ok
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:48:44][AlgorithmStarted]Algorithm 7|objects:2|frames:2701|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:49:11][AlgorithmCompletedTime]Algorithm 7. Duration: 26.98 seconds. Result OK
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:49:11][AlgorithmStarted]Algorithm 3|objects:2|frames:2701|scans:2|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:51:13][AlgorithmCompletedTime]Algorithm 3. Duration: 122.36 seconds. Result OK
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:51:14][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:54:12][AlgorithmCompletedTime]Algorithm 15. Duration: 178.06 seconds. Result OK
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:54:12][AlgorithmStarted]Algorithm 14|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:automode
+[10][D15D2ED4-6233-421E-8D1E-B4F7368A20CB][17.0.5.61 Pro][2022-09-16T20:56:59][AlgorithmCompletedTime]Algorithm 14. Duration: 166.81 seconds. Result OK

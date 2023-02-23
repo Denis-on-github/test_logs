@@ -1,0 +1,12 @@
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:00:43][AlgorithmStarted]Algorithm 11|objects:1|frames:319|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:00:53][AlgorithmCompletedTime]Algorithm 11. Duration: 8.71 seconds. Result Ok
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:01:08][AlgorithmStarted]Algorithm 6|objects:1|frames:319|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:01:20][AlgorithmCompletedTime]Algorithm 6. Duration: 10.21 seconds. Result Ok
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:01:35][AlgorithmStarted]Algorithm 7|objects:1|frames:319|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:01:43][AlgorithmCompletedTime]Algorithm 7. Duration: 7.58 seconds. Result Ok
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:02:05][AlgorithmStarted]Algorithm 9|objects:1|frames:319|scans:1|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:03:16][AlgorithmCompletedTime]Algorithm 9. Duration: 70.97 seconds. Result Ok
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:06:22][AlgorithmStarted]Algorithm 13|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:06:39][AlgorithmCompletedTime]Algorithm 13. Duration: 16.74 seconds. Result Ok
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:07:11][AlgorithmStarted]Algorithm 13|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0
+[10][F33C9135-3077-4776-882C-56322686F7FA][15.1.2.60 Pro][2022-05-05T15:07:18][AlgorithmCompletedTime]Algorithm 13. Duration: 7.14 seconds. Result Ok

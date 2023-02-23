@@ -1,0 +1,19 @@
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:29:11][AlgorithmStarted]Algorithm 6, Objects count = 1, Frame count = 294
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:29:12][AlgorithmCompletedTime]Algorithm 6. Duration: 0.8 seconds. Result OK
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:29:14][AlgorithmStarted]Algorithm 7, Objects count = 1, Frame count = 294
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:29:19][AlgorithmCompletedTime]Algorithm 7. Duration: 4.7 seconds. Result Ok
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:31:25][AlgorithmStarted]Algorithm 6, Objects count = 1, Frame count = 246
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:31:26][AlgorithmCompletedTime]Algorithm 6. Duration: 0.7 seconds. Result OK
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:31:28][AlgorithmStarted]Algorithm 7, Objects count = 1, Frame count = 246
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:31:33][AlgorithmCompletedTime]Algorithm 7. Duration: 5.0 seconds. Result Ok
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:44:41][AlgorithmStarted]Algorithm 7, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:44:43][AlgorithmCompletedTime]Algorithm 7. Duration: 0.9 seconds. Result Failed
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:44:49][AlgorithmStarted]Algorithm 10, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:45:10][AlgorithmStarted]Algorithm 10, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:45:14][AlgorithmStarted]Algorithm 9, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:45:20][AlgorithmStarted]Algorithm 7, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:45:23][AlgorithmCompletedTime]Algorithm 7. Duration: 0.9 seconds. Result Failed
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:45:25][AlgorithmStarted]Algorithm 10, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:46:00][AlgorithmStarted]Algorithm 7, Objects count = 2, Frame count = 540
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:46:06][AlgorithmCompletedTime]Algorithm 7. Duration: 0.9 seconds. Result Failed
+[5][0236-1139-1F3D-8C3B][12.1.6.16 Pro][2022-10-11T12:46:09][AlgorithmStarted]Algorithm 10, Objects count = 2, Frame count = 540

@@ -1,0 +1,10 @@
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T13:56:48][AlgorithmStarted]Algorithm 7|objects:30|frames:18535|scans:30|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:01:17][AlgorithmCompletedTime]Algorithm 7. Duration: 268.47 seconds. Result Ok
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:19:32][AlgorithmStarted]Algorithm 8|objects:13|frames:11262|scans:13|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:26:52][AlgorithmCompletedTime]Algorithm 8. Duration: 435.80 seconds. Result Ok
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:30:59][AlgorithmStarted]Algorithm 7|objects:31|frames:18506|scans:30|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:34:41][AlgorithmCompletedTime]Algorithm 7. Duration: 221.16 seconds. Result Ok
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:44:59][AlgorithmStarted]Algorithm 10|objects:28|frames:16973|scans:28|fusions:0|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T14:55:45][AlgorithmCompletedTime]Algorithm 10. Duration: 644.27 seconds. Result Ok
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T17:24:25][AlgorithmStarted]Algorithm 15|objects:1|frames:1|scans:0|fusions:1|point_clouds:0|cads:0|locked:0|anchored:0|raw_scans:0|photo_sets:0|total_photos:0|launch_location:tools
+[10][83EF7FBE-F395-4758-9B45-7D515ACF8E1F][17.1.0.141 Pro][2022-12-02T17:24:29][AlgorithmCompletedTime]Algorithm 15. Duration: 3.32 seconds. Result Ok
