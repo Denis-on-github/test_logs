@@ -44,7 +44,7 @@ class LogAnalyzer:
         use_algorithms = self.get_count_algorithm_usage(path)
         top_algorithms = {}
         flag = True
-        while flag is True: # получаем 10 первых значений
+        while flag is True: # получаем 10 первых значений из сортированного списка
             for i in use_algorithms:
                 top_algorithms[i] = use_algorithms[i]
                 if len(top_algorithms) == 10:
@@ -59,7 +59,7 @@ class LogAnalyzer:
         fig.add_trace(go.Pie(values=table, labels=table.index, sort=False, hole=0.5))
         fig.show()
 
-
+# тестим
 if __name__ == '__main__':
     my_logs = LogAnalyzer()
     path = 'C:\\Users\\33306\\pythonProject\\test_logs\\logs'
