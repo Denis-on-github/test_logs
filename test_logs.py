@@ -1,50 +1,71 @@
 import os
 import re
-
-# функция create_list
-# создаем тапл с названиями всех лог-файлов (сессий), считаем общее кол-во сессий
-path = r'C:\Users\33306\pythonProject\test_logs\logs' # указываем путь к папке с файлами логов
-all_logs = tuple(os.listdir(path)) # список сессий
-session_count = len(all_logs) # общее кол-во сессий
-# конец функции
-
-# считываем все алгоритмы, получаем список существующих алгоритмов
-all_algorithms = [] # создадим список всех алгоритмов
-for i in all_logs:
-    with open(f'{path}\\{i}', 'r') as file:
-        for row in file:
-            pattern = r'\[AlgorithmCompletedTime\]Algorithm\s+(\d+)\.' # используем регулярные выражения для поиска id алгоритма
-            if 'AlgorithmCompletedTime' in row: # по завершению алгоритма понимаем, что он был выполнен
-                all_algorithms.append(int(*re.findall(pattern, row))) # добавляем найденный id алгоритма в список
-uniq_algorithms = set(all_algorithms) # список уникальных алгоритмов
-# конец функции
-
-# считаем кол-во запусков алгоритмов
-use_algorithms = {} # создаем словарь key=алгоритм, value=кол-во запусков
-for i in uniq_algorithms:
-    use_algorithms[i] = all_algorithms.count(i)
-sorted_use_algorithms = sorted(use_algorithms.items(), key=lambda x: x[1], reverse=True) # сортируем по значениям от большего к меньшему
-use_algorithms = dict(sorted_use_algorithms) # создаем отсортированный словарь
-# конец функции
-
-# функция находит топ-10 алгоритмов
-top_algorithms = {} # создадим словарь с топ-10 алгоритмов
-flag = True
-while flag is True:
-    for i in use_algorithms:
-        top_algorithms[i] = use_algorithms[i]
-        if len(top_algorithms) == 10:
-            flag = False
-            break
-# конец функции
-
-#создаем круговую диаграмму
 import plotly.graph_objs as go
 import pandas as pd
 
-table = pd.Series(top_algorithms) # представляем словарь в виде таблицы
 
-fig = go.Figure()
-fig.add_trace(go.Pie(values=table, labels=table.index, sort=False, hole=0.5))
-fig.show()
-# конец функции
+class LogAnalyzer:
+
+    # во все функции передаем аргумент path - наш путь к папке с файлами логов
+    def get_all_logs(self, path): # получаем тапл с названиями всех файлов логов
+        return tuple(os.listdir(path))
+
+    def get_all_session(self, path): # получаем общее кол-во сессий
+        all_logs = self.get_all_logs(path)
+        session_count = len(all_logs)
+        return session_count
+
+    def get_all_algorithms(self, path): # получаем список всех алгоритмов
+        all_logs = self.get_all_logs(path)
+        all_algorithms = []
+        for i in all_logs:
+            with open(f'{path}/{i}', 'r') as file:
+                for row in file:
+                    pattern = r'\[AlgorithmCompletedTime\]Algorithm\s+(\d+)\.' # используем регулярное выражение для поиска id алгоритма
+                    if 'AlgorithmCompletedTime' in row:
+                        all_algorithms.append(int(*re.findall(pattern, row)))
+        return all_algorithms
+
+    def get_uniq_algorithms(self, path): # получаем список уникальных алгоритмов
+        all_algorithms = self.get_all_algorithms(path)
+        uniq_algorithms = set(all_algorithms)
+        return uniq_algorithms
+
+    def get_count_algorithm_usage(self, path): # получаем словарь где key=id алгоритма, value=кол-во запусков
+        all_algorithms = self.get_all_algorithms(path)
+        pre_use_algorithms = {} # промежуточный словарь, без сортировки
+        for i in self.get_uniq_algorithms(path):
+            pre_use_algorithms[i] = all_algorithms.count(i)
+        sorted_use_algorithms = sorted(pre_use_algorithms.items(), key=lambda x: x[1], reverse=True) # сортируем словарь по значениям от большего к меньшему
+        use_algorithms = dict(sorted_use_algorithms) # преобразуем в словарь
+        return use_algorithms
+
+    def get_top_algorithms(self, path): # получаем топ-10 алгоритмов
+        use_algorithms = self.get_count_algorithm_usage(path)
+        top_algorithms = {}
+        flag = True
+        while flag is True: # получаем 10 первых значений из сортированного списка
+            for i in use_algorithms:
+                top_algorithms[i] = use_algorithms[i]
+                if len(top_algorithms) == 10:
+                    flag = False
+                    break
+        return top_algorithms
+
+    def get_pie_chart(self, path): # получаем диаграмму использованных алгоритмов
+        top_algorithms = self.get_top_algorithms(path)
+        table = pd.Series(top_algorithms)
+        fig = go.Figure()
+        fig.add_trace(go.Pie(values=table, labels=table.index, sort=False, hole=0.5))
+        fig.show()
+
+# тестим
+if __name__ == '__main__':
+    my_logs = LogAnalyzer()
+    path = 'C:\\Users\\33306\\pythonProject\\test_logs\\logs' # путь к папке с логами
+    print('Список всех логов:\n', my_logs.get_all_logs(path))
+    print('Список все запущенных алгоритмов:\n', my_logs.get_all_algorithms(path))
+    print('Список уникальных алгоритмов:\n', my_logs.get_uniq_algorithms(path))
+    print('Общее кол-во сессий:\n', my_logs.get_all_session(path))
+    print('Топ-10 алгоритмов:\n', my_logs.get_top_algorithms(path))
+    my_logs.get_pie_chart(path) # выводим диаграмму
