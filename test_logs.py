@@ -3,7 +3,6 @@ import re
 import plotly.graph_objs as go
 import pandas as pd
 
-
 class LogAnalyzer:
 
     # во все функции передаем аргумент path - наш путь к папке с файлами логов
